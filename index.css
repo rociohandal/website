@@ -1,16 +1,12 @@
-p{
-  font-size: 100pt;
-  font-weight: bold;
-  text-align: center;
-  padding-top: 100px;
-  padding-bottom: 100px;
-  padding-left: 100px;
-  padding-right: 100px;
+.center {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
   
 }
 padding{
   background-color: #ffffff;
-}
-li1{
-  text-align: right
 }
