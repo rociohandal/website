@@ -1,12 +1,7 @@
-.center {
+p {
     text-align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-right: 100px;
-    padding-left: 100px;
-}
-  
-}
-padding{
-  background-color: #ffffff;
+    margin: 100px;
+	background-color: #ffffff;
+	font-size: 100px;
+	font-weight: bold;
 }
