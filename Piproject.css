@@ -14,4 +14,6 @@ h2 {
   font-size: 25px;
   color: #FF314A;
 }
-    
+th {
+  border: 7px solid white;
+}
