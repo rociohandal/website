@@ -2,3 +2,10 @@ table, td{
 border: 15px solid white;
 border-collapse: collapse;
 }
+h1 {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 25px;
+  color: #FF314A;
+}
+    
