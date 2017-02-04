@@ -16,7 +16,9 @@ h2 {
   text-align: right;
 }
 th {
-  border: 7px solid white;
+  border: 2px solid white;
+  font-family: Aladin;
+  color: #FF0037;
 }
 table{
   display: inline-block;
