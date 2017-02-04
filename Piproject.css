@@ -20,7 +20,9 @@ th {
 }
 table.one {
   float: left;
+  margin: auto;
 }
 table.two {
   float: right;
+  margin: auto;
 }
