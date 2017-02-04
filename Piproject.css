@@ -18,3 +18,11 @@ h2 {
 th {
   border: 7px solid white;
 }
+table.one {
+  position: relative;
+  float: left;
+}
+table.two {
+  position: relative;
+  float: right;
+}
