@@ -18,11 +18,6 @@ h2 {
 th {
   border: 7px solid white;
 }
-table.one {
-  float: left;
-  margin: auto;
-}
-table.two {
-  float: right;
-  margin: auto;
+table{
+  display: inline-block;
 }
