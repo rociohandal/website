@@ -13,7 +13,11 @@ h2 {
   font-weight: bold;
   font-size: 25px;
   color: #FF314A;
+  text-align: right;
 }
 th {
   border: 7px solid white;
 }
+img{
+  height: 100px;
+  width: 50%
