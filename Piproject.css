@@ -1,3 +1,6 @@
+body{
+  background: url("background");
+}
 table, td{
 border: 15px solid white;
 border-collapse: collapse;
